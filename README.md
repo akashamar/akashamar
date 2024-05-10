@@ -28,7 +28,7 @@ Hi there! I'm Akash, a passionate software engineer with expertise in a wide ran
 - Stripe Payment Service
 - SendGrid Mail Service
 - Cloudflare
-- GCP (Google Cloud Platform):
+- GCP:
   - Cloud Computing
   - Cloud Storage
   - Maps and Geolocation
@@ -40,7 +40,7 @@ Hi there! I'm Akash, a passionate software engineer with expertise in a wide ran
 - Web Push Notification
 - Web Socket
 - CI/CD
-- Server-Sent Events (SSE)
+- SSE
 - WebRTC
 - NLP (Natural Language Processing)
 - HLS Video Streaming and Transcoding
