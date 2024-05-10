@@ -1,8 +1,8 @@
-# Welcome to [Akash] GitHub Profile! 👋
+# Welcome to Akash GitHub Profile! 👋
 
 ## About Me
 
-Hi there! I'm [Akash], a passionate software engineer with expertise in a wide range of technologies and frameworks. I love building scalable and innovative solutions that solve real-world problems. Here's a glimpse of what I bring to the table:
+Hi there! I'm Akash, a passionate software engineer with expertise in a wide range of technologies and frameworks. I love building scalable and innovative solutions that solve real-world problems. Here's a glimpse of what I bring to the table:
 
 ## Skills
 
