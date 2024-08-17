@@ -26,7 +26,6 @@ Hi there! I'm Akash, a passionate software engineer with expertise in a wide ran
   - Lambda
 - PostgreSQL
 - Stripe Payment Service
-- SendGrid Mail Service
 - Cloudflare
 - GCP:
   - Cloud Computing
